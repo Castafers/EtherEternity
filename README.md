@@ -43,7 +43,7 @@ Run the following commands in the root directory:
 ```
 
 
-## Using Yatopia-API
+## Using EtherEternity-API
 
 To build your plugin against the EtherEternity-API, first add the CodeMC maven repository:
 
