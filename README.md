@@ -130,4 +130,4 @@ Security information can be found [here](/SECURITY.md).
 ## Statistics
 [![bStats Graph Data](https://bstats.org/signatures/server-implementation/Yatopia.svg)](https://bstats.org/plugin/server-implementation/Yatopia)
 
-Made with <span style="color: #e25555;">&#9829;</span> on Earth.
+Made with <span style="color: #e25555;">&#9829;</span> by the developers of [Dygamic](https://dygamic.com/team).
